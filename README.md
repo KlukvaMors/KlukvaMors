@@ -12,6 +12,10 @@ I love 🐍 Python and respect ☕ Java.
 - Telegram: <a href="https://t.me/mikhail_kurochkin">@mikhail_kurochkin</a>
 - E-mail: mkv-1724@mail.ru
 
+### 📈 GitHub Statistics 📊
+
+[![KlukvaMors's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlukvaMors)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **KlukvaMors/KlukvaMors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
