@@ -1,10 +1,11 @@
 ## Hi! I`m Mikhail!
 
-I love Python and respect Java. 
+I love 🐍 Python and respect ☕ Java. 
 
 ### 🛠 Technical Stack
 *   Python, Java
-*   SQL: DML (Group query, Sub query, JOIN)
+*   SQL: DML (Group query, Sub query, JOIN), DDL
+*   Django, Flask, FastAPI
 *   Git, Docker (basic), Linux (basic), 
 
 **Contacts:**
