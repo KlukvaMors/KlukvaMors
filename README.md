@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I`m Mikhail!
+
+I love Python and respect Java. 
+
+**Contacts:**
+- Telegram: <a href="https://t.me/mikhail_kurochkin">@mikhail_kurochkin</a>
+- E-mail: mkv-1724@mail.ru
+
 
 <!--
 **KlukvaMors/KlukvaMors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
