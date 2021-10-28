@@ -18,6 +18,10 @@ I love 🐍 Python and respect ☕ Java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlukvaMors&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/KlukvaMors/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=KlukvaMors&color=DE002D">
+   </a>
+
 
 <!--
 **KlukvaMors/KlukvaMors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
