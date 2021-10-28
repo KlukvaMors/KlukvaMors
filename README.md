@@ -1,6 +1,11 @@
-### Hi! I`m Mikhail!
+## Hi! I`m Mikhail!
 
 I love Python and respect Java. 
+
+### 🛠 Technical Stack
+*   Python, Java
+*   SQL: DML (Group query, Sub query, JOIN)
+*   Git, Docker (basic), Linux (basic), 
 
 **Contacts:**
 - Telegram: <a href="https://t.me/mikhail_kurochkin">@mikhail_kurochkin</a>
