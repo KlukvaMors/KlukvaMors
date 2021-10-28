@@ -8,7 +8,7 @@ I love 🐍 Python and respect ☕ Java.
 *   Django, Flask, FastAPI
 *   Git, Docker (basic), Linux (basic), 
 
-**Contacts:**
+### ☎️ Contacts
 - Telegram: <a href="https://t.me/mikhail_kurochkin">@mikhail_kurochkin</a>
 - E-mail: mkv-1724@mail.ru
 
